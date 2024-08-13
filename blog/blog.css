@@ -1,0 +1,9 @@
+
+.h3 {
+    text-align: center;
+    color: #ff6d64;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 100px;
+    text-transform: capitalize;
+}
